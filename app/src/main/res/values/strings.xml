@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ShareQR</string>
+    <string name="qr_text_hint">Текст для кодирования</string>
+    <string name="button_generate">Генерировать</string>
+    <string name="qr_code_description">QR-код</string>
+    <string name="share_button_description">Поделиться</string>
 </resources>
